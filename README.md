@@ -17,7 +17,6 @@ Este projeto de extensão tem como objetivo apoiar a gestão e organização da 
 
 - **React Native** – Desenvolvimento mobile multiplataforma (Android/iOS).
 - **Expo** – Framework para facilitar o desenvolvimento e testes do app.
-- **Firebase** – (opcional) Para armazenamento em nuvem, autenticação e banco de dados em tempo real.
 - **Figma** – Protótipos e wireframes (design do aplicativo).
 
 ---
