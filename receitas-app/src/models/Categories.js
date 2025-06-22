@@ -21,7 +21,7 @@ export const categories = [
   },
   {
     id: "06",
-    category: "Sobremesas",
+    category: "Sobremesa",
   },
   {
     id: "07",
